@@ -13,3 +13,4 @@ function equalsZero(array) {
 }
 
 equalsZero(array)
+equalsZero([1, 2, 3, 4, 5, -1, -2, -3, 20])
